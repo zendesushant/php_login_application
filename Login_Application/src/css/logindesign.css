@@ -1,0 +1,33 @@
+
+body{
+
+    background-color: cyan;
+}
+
+.login-details{
+    position: relative;
+    padding:10px;
+}
+
+.login-fields{
+position: absolute;
+left:100px;
+padding: 5px;
+}
+
+.loginbtn{
+    width:175px;
+   margin-left: 9px;
+   margin-top: 15px;
+}
+
+.createaccountbtn{
+margin-top: 60px;
+margin-left: 10px;
+width: 155px;
+letter-spacing: 1.2px;
+text-decoration: none;
+padding:10px;
+background-color: blue;
+color:white;
+}
